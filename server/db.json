@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Elon Musk",
+      "company": "SpaceX and Tesla",
+      "email": "elon.musk@spacex.com",
+      "title": "CEO",
+      "mobile": "9876546787",
+      "photo": "https://cdn.pixabay.com/photo/2022/09/19/13/56/elon-musk-7465608__340.png",
+      "groupId": "5"
+    },
+    {
+      "id": "TVobxeKbI",
+      "name": "Bill Gates",
+      "company": "Microsoft",
+      "email": "bill.gates@microsoft.com",
+      "title": "MD and Director",
+      "mobile": "8880009991",
+      "photo": "https://pbs.twimg.com/profile_images/1564398871996174336/M-hffw5a_400x400.jpg",
+      "groupId": "2"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Sundar Pichai",
+      "company": "Google",
+      "email": "sundar.pichai@gmail.com",
+      "title": "CEO",
+      "mobile": "9876546787",
+      "photo": "https://wallpapers.com/images/hd/google-ceo-sundar-pichai-digital-artwork-fvtkp48khhjh7bg8.jpg",
+      "groupId": "4"
+    },
+    {
+      "name": "Amit Bali",
+      "photo": "https://media.licdn.com/dms/image/C5603AQH7UH1bX51vfg/profile-displayphoto-shrink_800_800/0/1593422226862?e=2147483647&v=beta&t=cUE7eqZLz2kwrwZIBO9zLWT69rHki76GbvC2zOoMXf0",
+      "mobile": 8000000,
+      "email": "amit.bali@nielseniq.com",
+      "company": "NielsenIQ",
+      "title": "Executive Director",
+      "groupId": "1",
+      "id": "kLt-bJF"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
