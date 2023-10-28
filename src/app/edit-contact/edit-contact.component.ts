@@ -38,7 +38,6 @@ export class EditContactComponent {
       })
     }
   }
-
   public submitUpdate(){
     if(this.contactId){
       this.contactService.updateContact(this.contact,this.contactId).subscribe((data) => {
