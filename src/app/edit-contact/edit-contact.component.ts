@@ -43,6 +43,7 @@ export class EditContactComponent {
       this.contactService.updateContact(this.contact,this.contactId).subscribe((data) => {
         this.router.navigate(['/']).then();
       },(error) => {
+        // This is the message which will be printed when there will be an error in the system
         this.errorMessage = error;
         this.router.navigate([`/contacts/edit/${this.contactId}`]).then();
       });
